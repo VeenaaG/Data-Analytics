@@ -1,0 +1,7 @@
+print("BIODATA")
+print("My Name: G.Veenaa")
+print("My age: 22")
+print("My Father's Name: L.Ganesan")
+print("My Mother's Name: S.Venmathi")
+print("My Address: 57/99, Pallavan Nagar 3rd street, Kalavasal, Madurai")
+print("My Qualification: B.E Mechanical Engineering")
