@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ec7551-03fe-4a64-8de2-a87b187b7056" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day8_Task/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_Task/Nested_Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="34jm1Mn1SP7dTAfvzj2vXbF1KWb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +45,8 @@
     "Python.For-Loops.executor": "Run",
     "Python.ForLoops.executor": "Run",
     "Python.Functions.executor": "Run",
+    "Python.Nested_Loops.executor": "Run",
+    "Python.Task_Day9.executor": "Run",
     "Python.WhileLoops.executor": "Run",
     "Python.program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
