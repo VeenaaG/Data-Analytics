@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ec7551-03fe-4a64-8de2-a87b187b7056" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day10_Task/List_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11_Task/ListFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11_Task/Tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +46,11 @@
     "Python.For-Loops.executor": "Run",
     "Python.ForLoops.executor": "Run",
     "Python.Functions.executor": "Run",
+    "Python.ListFunctions.executor": "Run",
     "Python.List_Functions.executor": "Run",
     "Python.Nested_Loops.executor": "Run",
     "Python.Task_Day9.executor": "Run",
+    "Python.Tuple.executor": "Run",
     "Python.WhileLoops.executor": "Run",
     "Python.program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
