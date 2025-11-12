@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16ec7551-03fe-4a64-8de2-a87b187b7056" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day12_Task/List,Tuple(Intermediate).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13_Task/Loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Python.List,Tuple(Intermediate).executor": "Run",
     "Python.ListFunctions.executor": "Run",
     "Python.List_Functions.executor": "Run",
+    "Python.Loop.executor": "Run",
     "Python.Nested_Loops.executor": "Run",
     "Python.Task_Day9.executor": "Run",
     "Python.Tuple.executor": "Run",
