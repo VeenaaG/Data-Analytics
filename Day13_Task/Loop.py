@@ -23,13 +23,14 @@ print("-"*70)
 print("Electricity Bill Calculator")
 units = int(input("Enter units consumed: "))
 if units < 100:
-    bill = units * 1.5
+    rate = 1.5
 elif units <= 200:
-    bill = (100*1.5) + (units-100)*2.5
+    rate = 2.5
 elif units <= 300:
-    bill = (100*1.5) + (100*2.5) + (units-200) * 4.0
+    rate = 4.0
 else:
-    bill = (100*1.5) + (100*2.5) + (100*4.0) + (units-300) * 5.0
+    rate = 5.0
+bill = units * rate
 if bill > 1000:
     bill += bill * 0.10
 print(f"Total Bill: ₹{bill}")
